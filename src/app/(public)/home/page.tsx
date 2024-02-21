@@ -75,8 +75,8 @@ export default function Component() {
               <p className="text-gray-500 md:text-xl dark:text-gray-400">
                 Our team is made up of industry experts with years of experience
                 in web development, design, and developer experience. We are
-                dedicated to pushing the boundaries of what's possible on the
-                web and sharing our knowledge with the community.
+                dedicated to pushing the boundaries of what&apos;s possible on
+                the web and sharing our knowledge with the community.
               </p>
             </div>
           </div>
